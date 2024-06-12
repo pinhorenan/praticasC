@@ -1,4 +1,6 @@
 #include <iostream>
+#include <fstream>
+#include <random>
 #include <string>
 #include <cctype>
 using namespace std;
